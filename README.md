@@ -1,4 +1,13 @@
 # 30daychallenge
+
+1/3/21
+- Listened to a User Defenders podcast w/ Jeff Gothelf
+  - Goal is user outcomes and behavior changes, not features
+  - Tie MVP/phases to outcomes to ensure a phase 2
+  - Involve engineers in ideation and customer interviews
+  - Designers are scientists before pixel pushers
+  - Show work often, get it out there
+
 1/2/21
 - Updated app to support sidebar on iPad and tabbar on iPhone
 - Banged my head aganist the wall on learning about toolbar item vs. navigationbaritems https://stackoverflow.com/questions/56607175/navigation-stuff-in-swiftui
