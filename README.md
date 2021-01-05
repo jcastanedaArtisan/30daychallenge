@@ -1,5 +1,11 @@
 # 30daychallenge
 
+1/4/21 
+- Listened to a Design Review podcast on improving your product design skills
+  - Always do user research
+  - Impromptu usability testing with peers
+  - Say "Yes" to things that you haven't done before to stretch your skillsets
+  
 1/3/21
 - Listened to a User Defenders podcast w/ Jeff Gothelf
   - Goal is user outcomes and behavior changes, not features
