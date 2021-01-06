@@ -1,5 +1,12 @@
 # 30daychallenge
 
+1/5/21 
+- Listened to a Design Review podcast on what's beyond senior designer
+  - Always show your work publicly
+  - Start a meetup
+  - Become a mentor
+  - Reach out to designers who are in your ideal role (IC or Lead)
+  
 1/4/21 
 - Listened to a Design Review podcast on improving your product design skills
   - Always do user research
