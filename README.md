@@ -1,5 +1,12 @@
 # 30daychallenge
 
+1/6/21 
+- Listened to a Design Review podcast on design documentation
+  - Confluence or a keynote/ppt works to capture the timeline
+  - Link sources to justify a particular pattern
+  - Link competitive anaylsis
+  - Share it!
+
 1/5/21 
 - Listened to a Design Review podcast on what's beyond senior designer
   - Always show your work publicly
