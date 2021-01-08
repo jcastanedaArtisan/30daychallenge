@@ -1,5 +1,10 @@
 # 30daychallenge
 
+1/7/21
+- Listened to Design Review podcast on Fear vs. productivity
+  - depth vs breadth
+  - show your work!
+
 1/6/21 
 - Listened to a Design Review podcast on design documentation
   - Confluence or a keynote/ppt works to capture the timeline
