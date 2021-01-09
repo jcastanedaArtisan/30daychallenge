@@ -1,5 +1,10 @@
 # 30daychallenge
 
+1/9/21
+- Updated SwiftUI app, tinkered mostly but got a navigation link working with a showModal variable
+  - Still trying to figure out navigation states
+  - Will need to build a model for the guideline list items
+
 1/8/21
 - Wrapped up the Fear vs. productivity podcast
   - Get to V1 asap
