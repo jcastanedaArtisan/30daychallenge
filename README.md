@@ -1,5 +1,10 @@
 # 30daychallenge
 
+1/8/21
+- Wrapped up the Fear vs. productivity podcast
+  - Get to V1 asap
+  - make it better
+
 1/7/21
 - Listened to Design Review podcast on Fear vs. productivity
   - depth vs breadth
