@@ -1,5 +1,13 @@
 # 30daychallenge
 
+
+1/11/21
+- Listened to a Design Review podcast on car HUD UX
+  - Most car huds aren't very well designed
+  - Very heavily NDAed so not a lot work is shown, you have to wait for the yearly updates from auto
+  - Designing for the distracted (people shouldn't be paying attention to the HUD)
+  - QML as a foundational programming language 
+
 1/10/21
 - Listened to a Design Review podcast on better communication
   - Overcommunicate
