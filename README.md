@@ -1,5 +1,10 @@
 # 30daychallenge
 
+1/10/21
+- Listened to a Design Review podcast on better communication
+  - Overcommunicate
+  - Give frequent status updates
+
 1/9/21
 - Updated SwiftUI app, tinkered mostly but got a navigation link working with a showModal variable
   - Still trying to figure out navigation states
