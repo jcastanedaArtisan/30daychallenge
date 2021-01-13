@@ -1,5 +1,10 @@
 # 30daychallenge
 
+1/12/21
+- Listened to a Design Review podcast on writing for ux
+  - UX writing is important for presentations, emails, documentation and error messages
+  - Writing for different translations https://docs.google.com/spreadsheets/d/1EBNCqbiK-X-DljBD1WhfmsLXaO4iJYGe0Mi5yTuiUb0/edit?usp=sharing
+  - For spec documentation what is the bare minimum you need to communicate for diving deep?
 
 1/11/21
 - Listened to a Design Review podcast on car HUD UX
