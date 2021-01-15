@@ -1,5 +1,15 @@
 # 30daychallenge
 
+1/14/21
+- Listened to a Design Review podcast on UI vs No UI
+  - No UI is valid in some cases, but in most cases it's a pipe dream
+  - Uses screens efficiently
+
+1/13/21
+- Listened to a Design Review podcast on design culture
+  - Organizational change is hard
+  - Work to show your work outwardly to the organization
+
 1/12/21
 - Listened to a Design Review podcast on writing for ux
   - UX writing is important for presentations, emails, documentation and error messages
