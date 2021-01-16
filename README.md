@@ -1,4 +1,7 @@
 # 30daychallenge
+1/15/21
+- https://uxdesign.cc/the-true-roi-of-ux-convincing-the-executive-suite-6eed40cba79b
+
 
 1/14/21
 - Listened to a Design Review podcast on UI vs No UI
