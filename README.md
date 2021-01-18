@@ -1,4 +1,11 @@
 # 30daychallenge
+
+1/17/21 - Embracing creativity pt. 2
+- https://www.ted.com/talks/ethan_hawke_give_yourself_permission_to_be_creative?language=en
+
+1/16/21 - Embracing creativity pt. 1
+- https://www.ted.com/talks/ethan_hawke_give_yourself_permission_to_be_creative?language=en
+
 1/15/21
 - https://uxdesign.cc/the-true-roi-of-ux-convincing-the-executive-suite-6eed40cba79b
 
