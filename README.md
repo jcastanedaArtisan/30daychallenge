@@ -1,5 +1,7 @@
 # 30daychallenge
 
+1/18/21 - Design Review - The responsibility of designers
+
 1/17/21 - Embracing creativity pt. 2
 - https://www.ted.com/talks/ethan_hawke_give_yourself_permission_to_be_creative?language=en
 
