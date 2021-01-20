@@ -1,4 +1,5 @@
 # 30daychallenge
+1/20/21 - https://uxdesign.cc/the-role-of-the-sole-ux-designer-in-an-agile-product-team-497afa8d04ff
 
 1/19/21 - Design Review - Salary negotiations
 
@@ -12,7 +13,6 @@
 
 1/15/21
 - https://uxdesign.cc/the-true-roi-of-ux-convincing-the-executive-suite-6eed40cba79b
-
 
 1/14/21
 - Listened to a Design Review podcast on UI vs No UI
