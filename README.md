@@ -1,5 +1,7 @@
 # 30daychallenge
 
+1/19/21 - Design Review - Salary negotiations
+
 1/18/21 - Design Review - The responsibility of designers
 
 1/17/21 - Embracing creativity pt. 2
