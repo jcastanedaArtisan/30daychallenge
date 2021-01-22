@@ -1,4 +1,6 @@
 # 30daychallenge
+1/22/21 - https://articles.uie.com/curse_of_mobile_strategy/
+
 1/20/21 - https://uxdesign.cc/the-role-of-the-sole-ux-designer-in-an-agile-product-team-497afa8d04ff
 
 1/19/21 - Design Review - Salary negotiations
