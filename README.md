@@ -1,4 +1,6 @@
 # 30daychallenge
+1/26/21 - https://uxdesign.cc/5-design-personas-every-design-team-has-to-have-1600054e7ea3
+
 1/22/21 - https://articles.uie.com/curse_of_mobile_strategy/
 
 1/20/21 - https://uxdesign.cc/the-role-of-the-sole-ux-designer-in-an-agile-product-team-497afa8d04ff
